@@ -1,0 +1,8 @@
+chatroom/entity/User.class
+chatroom/web/controller/ChatController.class
+chatroom/web/websocket/ChatHandshakeInterceptor.class
+chatroom/utils/GsonUtils.class
+chatroom/web/websocket/WebSocketConfig.class
+chatroom/entity/Message.class
+chatroom/web/websocket/ChatWebSocketHandler$1.class
+chatroom/web/websocket/ChatWebSocketHandler.class
