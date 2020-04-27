@@ -1,2 +1,3 @@
 # chatroom
- An online chat room made with Java. Spring, Spring MVC and WebSocket are used.
+ An online chat room made with Java. Spring, Spring MVC and WebSocket are used. This project create an online chat room just like facebook. When you visit the website, you can choose a random nickname and click 'Enter the Chat Room' to enter. Then all the online users will be listed left in the website. You can send messages to the chat room, and all other users will receive that message on their web browser. 
+ I make use of the HTML5 technology 'WebSocket'. This is a TCP protocol for Browser and Server to generate a long, duplex connection in the sense that both are about to push messages to each other.
